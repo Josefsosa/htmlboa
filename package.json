@@ -6,10 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
-  "author": "Jose F. Sosa",
   "license": "BSD",
   "dependencies": {
-    "express": "~3.1.1"
+    "express": "~3.1.1",
+    "cors": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Josefsosa/htmlboa.git"
+  },
+  "author": "Jose F. Sosa <josefsosa@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Josefsosa/htmlboa/issues"
   }
 }
