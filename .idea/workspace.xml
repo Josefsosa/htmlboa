@@ -26,7 +26,7 @@
       <file leaf-file-name="readMe.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readMe.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.5718475" vertical-offset="0" max-vertical-offset="682">
+            <state line="5" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.109970674" vertical-offset="0" max-vertical-offset="682">
               <folding />
             </state>
           </provider>
@@ -89,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1207" />
-    <option name="y" value="49" />
+    <option name="x" value="-1395" />
+    <option name="y" value="50" />
     <option name="width" value="1437" />
     <option name="height" value="828" />
   </component>
@@ -227,7 +227,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1207" y="49" width="1437" height="828" extended-state="0" />
+    <frame x="-1395" y="50" width="1437" height="828" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -321,7 +321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readMe.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.5718475" vertical-offset="0" max-vertical-offset="682">
+        <state line="5" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.109970674" vertical-offset="0" max-vertical-offset="682">
           <folding />
         </state>
       </provider>
