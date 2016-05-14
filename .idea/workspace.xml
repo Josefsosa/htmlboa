@@ -4,6 +4,7 @@
     <list default="true" id="b9f7e797-ff84-4338-882a-6c4504ada81d" name="Default" comment="" />
     <ignored path="htmlBoa.iws" />
     <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,57 +15,99 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="htmlBoa" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="readMe.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readMe.md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="jsServer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsServer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.109970674" vertical-offset="0" max-vertical-offset="682">
+            <state relative-caret-position="0">
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html001.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/html001.json">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="135">
+            <state relative-caret-position="636">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anonymous-routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/anonymous-routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user-routes.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user-routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quoter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quoter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <marker date="1411105402000" expanded="true" signature="1:7008" placeholder="{&quot;html&quot;: &quot;&lt;body&gt;\n &lt;!-- [DocumentBodyStart:9551bc32-75fb-4d50-ac6a-7f0eea8ac668] --&gt;\n &lt;div class=\&quot;jive-rendered-content\&quot;&gt;\n  &lt;div class=\&quot;body-light-sea-border\&quot;&gt;\n   &lt;p&gt;Discover the capabilities and specs of the HTC Windows Phone 8X. Find out more on this page:&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#features\&quot;&gt;Key features&lt;\/a&gt;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#specs\&quot;&gt;Specs&lt;\/a&gt;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#whats_box\&quot;&gt;What's in the box&lt;\/a&gt;&lt;\/p&gt;\n  &lt;\/div&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p&gt;&lt;a name=\&quot;features\&quot;&gt;&lt;\/a&gt;&lt;\/p&gt;\n  &lt;h1 class=\&quot;headline-dark-sea\&quot;&gt;&lt;span class=\&quot;tmo-specs-doc-header\&quot;&gt;Key features&lt;\/span&gt;&lt;\/h1&gt;\n  &lt;div class=\&quot;body-light-sea-border\&quot;&gt;\n   &lt;ul&gt;\n    &lt;li&gt;Windows Phone 8&lt;\/li&gt;\n    &lt;li&gt;One of our FIRST 42Mbps Windows Phone devices&lt;\/li&gt;\n    &lt;li&gt;4.3\u201d Super LCD 1280 x 720 HD (720p) with Gorilla Glass 2&lt;\/li&gt;\n    &lt;li&gt;1.5 GHz dual-core processor&lt;\/li&gt;\n    &lt;li&gt;8 MP rear camera with flash&lt;\/li&gt;\n   &lt;\/ul&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#top\&quot;&gt;Back to top&lt;\/a&gt;&lt;\/p&gt;\n  &lt;\/div&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p&gt;&lt;a name=\&quot;specs\&quot;&gt;&lt;\/a&gt;&lt;\/p&gt;\n  &lt;table class=\&quot;tmo-specs-doc-table\&quot;&gt;\n   &lt;thead&gt;\n    &lt;tr&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Specs&lt;\/h4&gt;&lt;\/th&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Connectivity&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n   &lt;\/thead&gt;\n   &lt;tbody&gt;\n    &lt;tr valign=\&quot;top\&quot;&gt;\n     &lt;td rowspan=\&quot;7\&quot; style=\&quot;;\&quot;&gt;&lt;p&gt;&lt;strong&gt;Battery&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Usage time: 14.7 hours&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Standby time: 290 hours&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Dimensions&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;5.21 x 2.61 x 0.39 inches&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Weight 4.58 oz&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Display&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;4.3&amp;quot; 1280 x 720 screen&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;SuperLCD&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Keyboard&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Touch screen with on-screen keyboard&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Memory&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;1 GB RAM, 16 GB ROM&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Network&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;2G/3G/4G Capable&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;850 MHz; 900 MHz; 1800 MHz; 1900 MHz&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;UMTS: Band I (2100); Band IV (1700/2100); Band II (1900)&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Operating System&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Windows Phone 8&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Processor&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;1.5 GHz dual-core processor&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;System Manager (Carrier IQ)&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;No&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Emergency Alerts (CMAS)&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Yes&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;HD Voice Capable&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;No&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;MobileLife Contacts&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Yes&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#top\&quot;&gt;Back to top&lt;\/a&gt;&lt;\/p&gt;&lt;\/td&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;Wi-Fi 802.11 a/b/g/n/u/e&amp;nbsp; &lt;\/li&gt;\n       &lt;li&gt;Wi-Fi web browsing&amp;nbsp; &lt;\/li&gt;\n       &lt;li&gt;Wi-Fi sharing&lt;\/li&gt;\n       &lt;li&gt;NFC&lt;\/li&gt;\n       &lt;li&gt;Micro USB&lt;\/li&gt;\n       &lt;li&gt;Bluetooth, Power Class 2, A2DP (stereo Bluetooth), OPP (Object Push Profile), HFP, AVRCP, PBAP&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n    &lt;tr valign=\&quot;top\&quot;&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Web&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n    &lt;tr valign=\&quot;top\&quot;&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;Internet Explorer 9&lt;\/li&gt;\n       &lt;li&gt;HTML 5.0, XHTML 5&amp;nbsp; &lt;\/li&gt;\n       &lt;li&gt;CSS&lt;\/li&gt;\n       &lt;li&gt;ECMAScript edition&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Camera&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;8 MP (rear facing)&lt;\/li&gt;\n       &lt;li&gt;2.1 MP (front facing)&lt;\/li&gt;\n       &lt;li&gt;4X digital zoom&lt;\/li&gt;\n       &lt;li&gt;Flash&lt;\/li&gt;\n       &lt;li&gt;Auto focus&lt;\/li&gt;\n       &lt;li&gt;Multiple shooting modes&lt;\/li&gt;\n       &lt;li&gt;Video recording&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Multimedia&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;Stereo audio (with headset)&lt;\/li&gt;\n       &lt;li&gt;Audio support: MP3, AAC, AAC+, eAAC, WMA, MPEG4, WAV, MIDI&lt;\/li&gt;\n       &lt;li&gt;Image support: GIF87A, GIF89A, PNG&lt;\/li&gt;\n       &lt;li&gt;Video support: 3GPP, 3GP, 3G2, M4V, MP4, WMV&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n   &lt;\/tbody&gt;\n  &lt;\/table&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p&gt;&lt;a name=\&quot;whats_box\&quot;&gt;&lt;\/a&gt;&lt;\/p&gt;\n  &lt;h1 class=\&quot;headline-dark-sea\&quot;&gt;What's in the box&lt;\/h1&gt;\n  &lt;div class=\&quot;body-light-sea-border\&quot;&gt;\n   &lt;p&gt;The device comes with the following accessories included in the box:&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;ul&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Device&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Charger&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;USB cable&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Micro SIM card&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Start guide&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;SIM tray removal tool&lt;\/li&gt;\n   &lt;\/ul&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#top\&quot;&gt;Back to top&lt;\/a&gt;&lt;\/p&gt;\n  &lt;\/div&gt;\n &lt;\/div&gt;\n &lt;!-- [DocumentBodyEnd:9551bc32-75fb-4d50-ac6a-7f0eea8ac668] --&gt;\n&lt;\/body&gt;&quot;...}" />
+                <element signature="e#0#45#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="customers.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../git/csl-ref-app/src/assets/customers.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="-3.6" vertical-offset="0" max-vertical-offset="180">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsServer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsServer.js">
+      <file leaf-file-name="readMe.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readMe.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="38" selection-start="1326" selection-end="1355" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,27 +115,42 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readMe.txt" />
-        <option value="$PROJECT_DIR$/data/html001.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/data/customers.json" />
+        <option value="$PROJECT_DIR$/jsServer.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/readMe.md" />
+        <option value="$PROJECT_DIR$/quoter.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/anonymous-routes.js" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/customer.js" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1395" />
-    <option name="y" value="50" />
-    <option name="width" value="1437" />
-    <option name="height" value="828" />
+    <option name="x" value="20" />
+    <option name="y" value="1" />
+    <option name="width" value="1807" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -108,7 +166,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -118,6 +176,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
@@ -128,45 +188,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htmlboa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htmlboa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="htmlboa">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="htmlboa">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="node_modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane subId="Project Files" />
       </pane>
     </panes>
   </component>
@@ -175,82 +201,115 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../svn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jose.sosa\Documents\github\htmlboa" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="name" value="Dart" />
-      <option name="saveOutputToFile" value="false" />
-      <option name="showConsoleOnStdErr" value="false" />
-      <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" SSL_PROTOCOLS="sslv3">
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <option name="UPDATE_LOCK_ON_DEMAND" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b9f7e797-ff84-4338-882a-6c4504ada81d" name="Default" comment="" />
       <created>1410972411125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1410972411125</updated>
+      <workItem from="1463174943834" duration="6725000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6725000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1395" y="50" width="1437" height="828" extended-state="1" />
+    <frame x="20" y="1" width="1807" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19704713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24929018" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -259,73 +318,190 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readMe.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsServer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="315">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/html001.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="135">
-          <folding>
-            <marker date="1411105402000" expanded="true" signature="1:7008" placeholder="{&quot;html&quot;: &quot;&lt;body&gt;\n &lt;!-- [DocumentBodyStart:9551bc32-75fb-4d50-ac6a-7f0eea8ac668] --&gt;\n &lt;div class=\&quot;jive-rendered-content\&quot;&gt;\n  &lt;div class=\&quot;body-light-sea-border\&quot;&gt;\n   &lt;p&gt;Discover the capabilities and specs of the HTC Windows Phone 8X. Find out more on this page:&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#features\&quot;&gt;Key features&lt;\/a&gt;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#specs\&quot;&gt;Specs&lt;\/a&gt;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#whats_box\&quot;&gt;What's in the box&lt;\/a&gt;&lt;\/p&gt;\n  &lt;\/div&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p&gt;&lt;a name=\&quot;features\&quot;&gt;&lt;\/a&gt;&lt;\/p&gt;\n  &lt;h1 class=\&quot;headline-dark-sea\&quot;&gt;&lt;span class=\&quot;tmo-specs-doc-header\&quot;&gt;Key features&lt;\/span&gt;&lt;\/h1&gt;\n  &lt;div class=\&quot;body-light-sea-border\&quot;&gt;\n   &lt;ul&gt;\n    &lt;li&gt;Windows Phone 8&lt;\/li&gt;\n    &lt;li&gt;One of our FIRST 42Mbps Windows Phone devices&lt;\/li&gt;\n    &lt;li&gt;4.3\u201d Super LCD 1280 x 720 HD (720p) with Gorilla Glass 2&lt;\/li&gt;\n    &lt;li&gt;1.5 GHz dual-core processor&lt;\/li&gt;\n    &lt;li&gt;8 MP rear camera with flash&lt;\/li&gt;\n   &lt;\/ul&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#top\&quot;&gt;Back to top&lt;\/a&gt;&lt;\/p&gt;\n  &lt;\/div&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p&gt;&lt;a name=\&quot;specs\&quot;&gt;&lt;\/a&gt;&lt;\/p&gt;\n  &lt;table class=\&quot;tmo-specs-doc-table\&quot;&gt;\n   &lt;thead&gt;\n    &lt;tr&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Specs&lt;\/h4&gt;&lt;\/th&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Connectivity&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n   &lt;\/thead&gt;\n   &lt;tbody&gt;\n    &lt;tr valign=\&quot;top\&quot;&gt;\n     &lt;td rowspan=\&quot;7\&quot; style=\&quot;;\&quot;&gt;&lt;p&gt;&lt;strong&gt;Battery&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Usage time: 14.7 hours&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Standby time: 290 hours&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Dimensions&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;5.21 x 2.61 x 0.39 inches&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Weight 4.58 oz&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Display&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;4.3&amp;quot; 1280 x 720 screen&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;SuperLCD&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Keyboard&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Touch screen with on-screen keyboard&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Memory&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;1 GB RAM, 16 GB ROM&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Network&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;2G/3G/4G Capable&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;850 MHz; 900 MHz; 1800 MHz; 1900 MHz&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;UMTS: Band I (2100); Band IV (1700/2100); Band II (1900)&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Operating System&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Windows Phone 8&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Processor&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;1.5 GHz dual-core processor&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;System Manager (Carrier IQ)&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;No&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;Emergency Alerts (CMAS)&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Yes&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;HD Voice Capable&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;No&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;strong&gt;MobileLife Contacts&lt;\/strong&gt;&lt;\/p&gt;&lt;p style=\&quot;padding-left: 30px;\&quot;&gt;Yes&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;&lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#top\&quot;&gt;Back to top&lt;\/a&gt;&lt;\/p&gt;&lt;\/td&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;Wi-Fi 802.11 a/b/g/n/u/e&amp;nbsp; &lt;\/li&gt;\n       &lt;li&gt;Wi-Fi web browsing&amp;nbsp; &lt;\/li&gt;\n       &lt;li&gt;Wi-Fi sharing&lt;\/li&gt;\n       &lt;li&gt;NFC&lt;\/li&gt;\n       &lt;li&gt;Micro USB&lt;\/li&gt;\n       &lt;li&gt;Bluetooth, Power Class 2, A2DP (stereo Bluetooth), OPP (Object Push Profile), HFP, AVRCP, PBAP&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n    &lt;tr valign=\&quot;top\&quot;&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Web&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n    &lt;tr valign=\&quot;top\&quot;&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;Internet Explorer 9&lt;\/li&gt;\n       &lt;li&gt;HTML 5.0, XHTML 5&amp;nbsp; &lt;\/li&gt;\n       &lt;li&gt;CSS&lt;\/li&gt;\n       &lt;li&gt;ECMAScript edition&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Camera&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;8 MP (rear facing)&lt;\/li&gt;\n       &lt;li&gt;2.1 MP (front facing)&lt;\/li&gt;\n       &lt;li&gt;4X digital zoom&lt;\/li&gt;\n       &lt;li&gt;Flash&lt;\/li&gt;\n       &lt;li&gt;Auto focus&lt;\/li&gt;\n       &lt;li&gt;Multiple shooting modes&lt;\/li&gt;\n       &lt;li&gt;Video recording&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;th class=\&quot;tmo-specs-doc-th\&quot; style=\&quot;;\&quot;&gt;&lt;h4&gt;Multimedia&lt;\/h4&gt;&lt;\/th&gt;\n    &lt;\/tr&gt;\n    &lt;tr&gt;\n     &lt;td style=\&quot;;\&quot;&gt;\n      &lt;ul&gt;\n       &lt;li&gt;Stereo audio (with headset)&lt;\/li&gt;\n       &lt;li&gt;Audio support: MP3, AAC, AAC+, eAAC, WMA, MPEG4, WAV, MIDI&lt;\/li&gt;\n       &lt;li&gt;Image support: GIF87A, GIF89A, PNG&lt;\/li&gt;\n       &lt;li&gt;Video support: 3GPP, 3GP, 3G2, M4V, MP4, WMV&lt;\/li&gt;\n      &lt;\/ul&gt;&lt;\/td&gt;\n    &lt;\/tr&gt;\n   &lt;\/tbody&gt;\n  &lt;\/table&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n  &lt;p&gt;&lt;a name=\&quot;whats_box\&quot;&gt;&lt;\/a&gt;&lt;\/p&gt;\n  &lt;h1 class=\&quot;headline-dark-sea\&quot;&gt;What's in the box&lt;\/h1&gt;\n  &lt;div class=\&quot;body-light-sea-border\&quot;&gt;\n   &lt;p&gt;The device comes with the following accessories included in the box:&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;ul&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Device&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Charger&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;USB cable&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Micro SIM card&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;Start guide&lt;\/li&gt;\n    &lt;li style=\&quot;text-align: start;\&quot;&gt;SIM tray removal tool&lt;\/li&gt;\n   &lt;\/ul&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p style=\&quot;min-height: 8pt; height: 8pt; padding: 0px;\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\n   &lt;p&gt;&lt;a class=\&quot;jive-link-anchor-small\&quot; href=\&quot;#top\&quot;&gt;Back to top&lt;\/a&gt;&lt;\/p&gt;\n  &lt;\/div&gt;\n &lt;\/div&gt;\n &lt;!-- [DocumentBodyEnd:9551bc32-75fb-4d50-ac6a-7f0eea8ac668] --&gt;\n&lt;\/body&gt;&quot;...}" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="-3.6" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jsServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="38" selection-start="1326" selection-end="1355" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
+        <state relative-caret-position="1144">
+          <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readMe.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.109970674" vertical-offset="0" max-vertical-offset="682">
+        <state relative-caret-position="0">
+          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/html001.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quoter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../git/csl-ref-app/src/assets/customers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anonymous-routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-

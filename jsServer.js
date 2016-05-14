@@ -1,10 +1,12 @@
 var express = require('express'),
     http = require('http');
 
+var customers = require('./data/customers.json');
 var airports = require('./data/airports.json');
 var flights = require('./data/flights.json');
 var html001 = require('./data/html001.json');
 var reservations = [];
+var cors = require('express-cors');
 
 for (var i = 0; i < flights.length; i++) {
   flights[i].originFullName = airports[flights[i].origin].name;
@@ -19,6 +21,7 @@ function getMatchingFlights (data) {
 }
 
 var app = express()
+    .use(cors({allowedOrigins: [ '*']}))
     .use(express.bodyParser())
     .use(express.static('public'));
 
@@ -26,6 +29,17 @@ app.get('/jHtml', function  (req, res) {
   res.jsonp(html001);
 });
 
+app.get('/customers', function (req, res) {
+  res.json(customers);
+});
+
+app.get('/customer/:id', function  (req, res) {
+  if (typeof customer[req.params.customer] === 'undefined') {
+    res.json(404, {status: 'not found - invalid customer code'});
+  } else {
+    res.json(customerInfo[req.params.customerId]);
+  }
+});
 app.get('/airports', function  (req, res) {
   res.json(airports);
 });

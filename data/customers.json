@@ -1,0 +1,139 @@
+{
+  "customerInfo": {
+    "customer": {
+      "customerId": "C310000888",
+      "customerType": "Person",
+      "party": {
+        "person": {
+          "personName": {
+            "firstName": "Bradabcdc",
+            "familyName": [
+              "Bloomabcdc"
+            ]
+          },
+          "preferredLanguage": "en",
+          "maritalStatus": "WIDOWED",
+          "driversLicense": [
+            {}
+          ],
+          "passport": [
+            {}
+          ],
+          "securityProfile": {
+            "userName": "U-600d2fb1-f0fd-44a2-88c9-e418ead65fd0",
+            "pin": "1234"
+          },
+          "visa": [
+            {
+              "classificationCode": {},
+              "status": {}
+            }
+          ],
+          "nationalIdentityDocument": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "citizenship": [
+            {}
+          ],
+          "addressCommunication": [
+            {
+              "@id": "1",
+              "usageContext": [
+                "BILLING",
+                "SHIPPING"
+              ]
+            }
+          ],
+          "emailCommunication": [
+            {
+              "emailAddress": "Bloomabcdc@ymail.com",
+              "usageContext": [
+                "PRIMARY"
+              ]
+            },
+            {
+              "emailAddress": "Bloomabcdc@ymail.com",
+              "usageContext": [
+                "PRIMARY"
+              ]
+            },
+            {
+              "emailAddress": "Bloomabcdc@ymail.com",
+              "usageContext": [
+                "PRIMARY"
+              ]
+            }
+          ],
+          "employment": [
+            {}
+          ],
+          "phoneCommunication": [
+            {
+              "@id": "1",
+              "phoneType": "MOBILE",
+              "phoneNumber": "4253458948",
+              "areaCode": "1"
+            }
+          ]
+        }
+      },
+      "customerGroup": "Consumer"
+    },
+    "addressList": [
+      {
+        "addressCommunication": [
+          {
+            "@id": "1",
+            "address": {
+              "cityName": "Atlanta",
+              "stateCode": "GA",
+              "countyName": "DeKalb",
+              "countryCode": "USA",
+              "postalCode": "30346",
+              "postalCodeExtension": "2149"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
+ 
