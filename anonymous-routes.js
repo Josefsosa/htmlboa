@@ -11,3 +11,7 @@ app.get('/api/random-quote', function(req, res) {
 app.get('/api/customer', function(req, res) {
   res.status(200).send(customer.getCustomers());
 });
+
+app.get('/api/phones', function(req, res) {
+  res.status(200).send(customer.getPhones());
+});
